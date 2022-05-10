@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+	<meta charset="UTF-8">
+	<link rel = "stylesheet" href="css/style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Roboto:ital@1&display=swap" rel="stylesheet"> 
+	<title> Ionov Mikhail </title>
+  </head>
+  <body>
+    <h1>Ionov Mikhail</h1>
+
+  </body>
+</html>
